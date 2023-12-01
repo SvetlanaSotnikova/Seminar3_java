@@ -37,7 +37,7 @@ public class Seminar3_Lesson {
             System.out.print("input genre of book: ");
             String genre = scanner.nextLine();
 
-            System.out.print("Continue? (Y/N): ");
+            System.out.print("Continue? (y/n): ");
             String userInput = scanner.next().charAt(0) + "";
             scanner.nextLine();
 
